@@ -80,6 +80,7 @@ header > nav {
         }
         &[data-current="current page"] {
           // you can add an active nav item style here
+          border-bottom:1px solid white;
         }
       }
       a:hover {

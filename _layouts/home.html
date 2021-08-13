@@ -4,20 +4,15 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-  {% include page-intro.html %}
+{{ content }}
 
-  {{ content }}
-
-  <section>
-
-    <h3>Recent posts from the blog</h3>
-
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-
-  </section>
+{% assign navurl = page.url | remove: 'index.html' %}
+<ul>
+{% for page in site.pages %}
+  {% if page.section != 404 and page.url != navurl %}
+  <li>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
