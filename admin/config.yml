@@ -3,7 +3,6 @@
 
 backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
-  repo: rocketacademy/schedules
   branch: main # Branch to update (master by default)
 
 
