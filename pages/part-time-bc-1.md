@@ -1,14 +1,23 @@
 ---
 layout: page
-title: Full Time BC 3
-meta_description: |
-  Full Time Bootcamp Batch 3 Schedule Page
-permalink: /ftbc3
-section: ftbc3
+title: Part Time BC 1
+section: "{{name}}"
 ---
 # Course Schedule
 
-# Mon 12 Apr, Week 1, Course Day 1
+# Mon 16 Aug, Week 1, Course Day 0
+Meeting time: 7:30 PM SGT (GMT+8)
+
+Welcome
+### In Class
+* Welcome to Coding Bootcamp
+
+* Icebreakers
+
+### Post Class
+* [Hardware and Software Setup](https://bootcamp.rocketacademy.co/course-logistics/required-hardware-and-software)
+
+# Sat 21 Aug, Week 1, Course Day 1
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -37,8 +46,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [1.POCE.1: Noodle Recipe Website](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.1-noodles)
 
-# Tue 13 Apr, Week 1, Course Day 2
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 23 Aug, Week 2, Course Day 2
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Pre Class
@@ -54,7 +63,7 @@ Module 1: Frontend Basics
 ### Post Class
 * [1.POCE.2: High Card DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom)
 
-# Wed 14 Apr, Week 1, Course Day 3
+# Sat 28 Aug, Week 2, Course Day 3
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -75,8 +84,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [1.POCE.3: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.3-match-game)
 
-# Thu 15 Apr, Week 1, Course Day 4
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 30 Aug, Week 3, Course Day 4
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Pre Class
@@ -96,7 +105,7 @@ Module 1: Frontend Basics
 ### Post Class
 * [1.POCE.4: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.4-timer)
 
-# Fri 16 Apr, Week 1, Course Day 5
+# Sat 4 Sep, Week 3, Course Day 5
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -115,8 +124,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [1.POCE.5: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe)
 
-# Mon 19 Apr, Week 2, Course Day 6
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 6 Sep, Week 4, Course Day 6
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Pre Class
@@ -137,7 +146,7 @@ Module 1: Frontend Basics
 ### Project Start
 * [Project 1: Video Poker](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
-# Tue 20 Apr, Week 2, Course Day 7
+# Sat 11 Sep, Week 4, Course Day 7
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -154,8 +163,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
-# Wed 21 Apr, Week 2, Course Day 8
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 13 Sep, Week 5, Course Day 8
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Pre Class
@@ -171,7 +180,7 @@ Module 1: Frontend Basics
 ### Post Class
 * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
-# Thu 22 Apr, Week 2, Course Day 9
+# Sat 18 Sep, Week 5, Course Day 9
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -186,8 +195,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
-# Fri 23 Apr, Week 2, Course Day 10
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 20 Sep, Week 6, Course Day 10
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Pre Class
@@ -205,7 +214,7 @@ Module 1: Frontend Basics
 
 * [Project 1: Deploy to GitHub Pages](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
 
-# Mon 26 Apr, Week 3, Course Day 11
+# Sat 25 Sep, Week 6, Course Day 11
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
@@ -221,8 +230,8 @@ Module 1: Frontend Basics
 ### Post Class
 * [Project 1 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
-# Tue 27 Apr, Week 3, Course Day 12
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 27 Sep, Week 7, Course Day 12
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 2: Backend Basics
 ### Pre Class
@@ -238,7 +247,7 @@ Module 2: Backend Basics
 
 * [1.POCE.6: CSS Flexbox](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive)
 
-# Wed 28 Apr, Week 3, Course Day 13
+# Sat 2 Oct, Week 7, Course Day 13
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 2: Backend Basics
@@ -255,8 +264,8 @@ Module 2: Backend Basics
 
 * [2.POCE.2: CSS Reader](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.2-css-reader)
 
-# Thu 29 Apr, Week 3, Course Day 14
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 4 Oct, Week 8, Course Day 14
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 2: Backend Basics
 ### Pre Class
@@ -276,7 +285,7 @@ Module 2: Backend Basics
 
 * [1.POCE.8: Flexbox Personal Page](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page)
 
-# Fri 30 Apr, Week 3, Course Day 15
+# Sat 9 Oct, Week 8, Course Day 15
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 2: Backend Basics
@@ -299,8 +308,8 @@ Module 2: Backend Basics
 
 * [1.POCE.9: Bootstrap](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns)
 
-# Mon 3 May, Week 4, Course Day 16
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 11 Oct, Week 9, Course Day 16
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 2: Backend Basics
 ### Pre Class
@@ -318,7 +327,7 @@ Module 2: Backend Basics
 ### Post Class
 * [2.POCE.5: Responsive Noodle Site](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.5-responsive-noodle-site)
 
-# Tue 4 May, Week 4, Course Day 17
+# Sat 16 Oct, Week 9, Course Day 17
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 2: Backend Basics
@@ -337,8 +346,8 @@ Module 2: Backend Basics
 
 * [1.POCE.10: Bootstrap Adobe](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe)
 
-# Wed 5 May, Week 4, Course Day 18
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 18 Oct, Week 10, Course Day 18
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 2: Backend Basics
 ### Pre Class
@@ -354,7 +363,7 @@ Module 2: Backend Basics
 ### Post Class
 * [2.POCE.6: To-Do List - JSON](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json)
 
-# Thu 6 May, Week 4, Course Day 19
+# Sat 23 Oct, Week 10, Course Day 19
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -371,8 +380,8 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.1: Express Noodle App](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.1-express-noodle-app)
 
-# Fri 7 May, Week 4, Course Day 20
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 25 Oct, Week 11, Course Day 20
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -388,7 +397,7 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.2: Express, EJS Noodle App](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.2-express-ejs-noodle-app)
 
-# Mon 10 May, Week 5, Course Day 21
+# Sat 30 Oct, Week 11, Course Day 21
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -407,8 +416,8 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
 
-# Tue 11 May, Week 5, Course Day 22
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 1 Nov, Week 12, Course Day 22
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -420,7 +429,7 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
 
-# Wed 12 May, Week 5, Course Day 23
+# Sat 6 Nov, Week 12, Course Day 23
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -437,10 +446,8 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
 
-# Thu 13 May: SG Public Holiday (Hari Raya Puasa)
-
-# Fri 14 May, Week 5, Course Day 24
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 8 Nov, Week 13, Course Day 24
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -464,7 +471,7 @@ Module 3: Backend Applications
 
 * [UX.2: The UX Process](https://bootcamp.rocketacademy.co/user-experience/ux.2-the-ux-process)
 
-# Mon 17 May, Week 6, Course Day 25
+# Sat 13 Nov, Week 13, Course Day 25
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -483,8 +490,8 @@ Module 3: Backend Applications
 
 * [UX.3: How to Design Your App](https://bootcamp.rocketacademy.co/user-experience/ux.3-how-to-design-your-app)
 
-# Tue 18 May, Week 6, Course Day 26
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 15 Nov, Week 14, Course Day 26
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -505,7 +512,7 @@ Module 3: Backend Applications
 ### Project Start
 * [Project 2: Server-Side App](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app)
 
-# Wed 19 May, Week 6, Course Day 27
+# Sat 20 Nov, Week 14, Course Day 27
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -522,8 +529,8 @@ Module 3: Backend Applications
 
 * [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
-# Thu 20 May, Week 6, Course Day 28
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 22 Nov, Week 15, Course Day 28
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -541,7 +548,7 @@ Module 3: Backend Applications
 
 * [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
-# Fri 21 May, Week 6, Course Day 29
+# Sat 27 Nov, Week 15, Course Day 29
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -560,8 +567,8 @@ Module 3: Backend Applications
 
 * [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
-# Mon 24 May, Week 7, Course Day 30
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 29 Nov, Week 16, Course Day 30
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
@@ -580,7 +587,7 @@ Module 3: Backend Applications
 
 * [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
-# Tue 25 May, Week 7, Course Day 31
+# Sat 4 Dec, Week 16, Course Day 31
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -599,10 +606,8 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
 
-# Wed 26 May: SG Public Holiday (Vesak Day)
-
-# Thu 27 May, Week 7, Course Day 32
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 6 Dec, Week 17, Course Day 32
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -620,7 +625,7 @@ Module 3: Backend Applications
 
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Fri 28 May, Week 7, Course Day 33
+# Sat 11 Dec, Week 17, Course Day 33
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -635,8 +640,8 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Mon 31 May, Week 8, Course Day 34
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 13 Dec, Week 18, Course Day 34
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Pre Class
@@ -650,7 +655,7 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Tue 1 Jun, Week 8, Course Day 35
+# Sat 18 Dec, Week 18, Course Day 35
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -666,8 +671,8 @@ Module 3: Backend Applications
 
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Wed 2 Jun, Week 8, Course Day 36
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 20 Dec, Week 19, Course Day 36
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
@@ -683,8 +688,14 @@ Module 3: Backend Applications
 
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Thu 3 Jun, Week 8, Course Day 37
-Meeting time: 10:00 AM SGT (GMT+8)
+# Sat 25 Dec: SG Public Holiday (Christmas Day)
+
+# Mon 27 Dec: Company Holiday (Winter Break)
+
+# Sat 1 Jan: Company Holiday (Winter Break)
+
+# Mon 3 Jan, Week 21, Course Day 37
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### In Class
@@ -695,7 +706,7 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Fri 4 Jun, Week 8, Course Day 38
+# Sat 8 Jan, Week 21, Course Day 38
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -707,8 +718,8 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Mon 7 Jun, Week 9, Course Day 39
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 10 Jan, Week 22, Course Day 39
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
@@ -722,7 +733,7 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
-# Tue 8 Jun, Week 9, Course Day 40
+# Sat 15 Jan, Week 22, Course Day 40
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
@@ -735,8 +746,8 @@ Module 3: Backend Applications
 ### Post Class
 * [Project 2 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
-# Wed 9 Jun, Week 9, Course Day 41
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 17 Jan, Week 23, Course Day 41
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 4: Backend Structure
 ### Pre Class
@@ -758,7 +769,7 @@ Module 4: Backend Structure
 
 * [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
 
-# Thu 10 Jun, Week 9, Course Day 42
+# Sat 22 Jan, Week 23, Course Day 42
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 4: Backend Structure
@@ -777,8 +788,8 @@ Module 4: Backend Structure
 
 * [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
 
-# Fri 11 Jun, Week 9, Course Day 43
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 24 Jan, Week 24, Course Day 43
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 4: Backend Structure
 ### Project Due
@@ -797,7 +808,7 @@ Module 4: Backend Structure
 ### Post Class
 * [4.POCE.1: Sequelize CLI App - Travel Itinerary](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary)
 
-# Mon 14 Jun, Week 10, Course Day 44
+# Sat 29 Jan, Week 24, Course Day 44
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 4: Backend Structure
@@ -812,8 +823,8 @@ Module 4: Backend Structure
 ### Post Class
 * [4.POCE.2: Drummers for Hire](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire)
 
-# Tue 15 Jun, Week 10, Course Day 45
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 31 Jan, Week 25, Course Day 45
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 4: Backend Structure
 ### Pre Class
@@ -825,7 +836,7 @@ Module 4: Backend Structure
 ### Post Class
 * [4.POCE.2: Drummers for Hire](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.2-drummers-for-hire)
 
-# Wed 16 Jun, Week 10, Course Day 46
+# Sat 5 Feb, Week 25, Course Day 46
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 5: Full-Stack Applications
@@ -840,8 +851,8 @@ Module 5: Full-Stack Applications
 ### Post Class
 * [4.POCE.3: Project 2 MVC Refactor](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor)
 
-# Thu 17 Jun, Week 10, Course Day 47
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 7 Feb, Week 26, Course Day 47
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 5: Full-Stack Applications
 ### Pre Class
@@ -855,7 +866,7 @@ Module 5: Full-Stack Applications
 ### Post Class
 * [4.POCE.3: Project 2 MVC Refactor](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.3-project-2-mvc-refactor)
 
-# Fri 18 Jun, Week 10, Course Day 48
+# Sat 12 Feb, Week 26, Course Day 48
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 5: Full-Stack Applications
@@ -875,8 +886,8 @@ Module 5: Full-Stack Applications
 ### Project Start
 * [Project 3: Full-Stack Game](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
-# Mon 21 Jun, Week 11, Course Day 49
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 14 Feb, Week 27, Course Day 49
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 5: Full-Stack Applications
 ### Pre Class
@@ -894,7 +905,7 @@ Module 5: Full-Stack Applications
 
 * [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
-# Tue 22 Jun, Week 11, Course Day 50
+# Sat 19 Feb, Week 27, Course Day 50
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -913,8 +924,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
-# Wed 23 Jun, Week 11, Course Day 51
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 21 Feb, Week 28, Course Day 51
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### Pre Class
@@ -934,7 +945,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
-# Thu 24 Jun, Week 11, Course Day 52
+# Sat 26 Feb, Week 28, Course Day 52
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -955,8 +966,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
-# Fri 25 Jun, Week 11, Course Day 53
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 28 Feb, Week 29, Course Day 53
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### Project Due
@@ -975,7 +986,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2)
 
-# Mon 28 Jun, Week 12, Course Day 54
+# Sat 5 Mar, Week 29, Course Day 54
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -994,8 +1005,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Tue 29 Jun, Week 12, Course Day 55
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 7 Mar, Week 30, Course Day 55
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### In Class
@@ -1008,7 +1019,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Wed 30 Jun, Week 12, Course Day 56
+# Sat 12 Mar, Week 30, Course Day 56
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -1025,8 +1036,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Thu 1 Jul, Week 12, Course Day 57
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 14 Mar, Week 31, Course Day 57
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### In Class
@@ -1039,7 +1050,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Fri 2 Jul, Week 12, Course Day 58
+# Sat 19 Mar, Week 31, Course Day 58
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -1065,8 +1076,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Mon 5 Jul, Week 13, Course Day 59
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 21 Mar, Week 32, Course Day 59
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### Pre Class
@@ -1084,7 +1095,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Tue 6 Jul, Week 13, Course Day 60
+# Sat 26 Mar, Week 32, Course Day 60
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -1103,8 +1114,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Wed 7 Jul, Week 13, Course Day 61
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 28 Mar, Week 33, Course Day 61
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
 ### In Class
@@ -1117,7 +1128,7 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
-# Thu 8 Jul, Week 13, Course Day 62
+# Sat 2 Apr, Week 33, Course Day 62
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend Infrastructure
@@ -1132,8 +1143,8 @@ Module 6: Frontend Infrastructure
 
 * [Project 3 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
-# Fri 9 Jul, Week 13, Course Day 63
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 4 Apr, Week 34, Course Day 63
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1151,7 +1162,7 @@ Module 7: React
 
 * [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
-# Mon 12 Jul, Week 14, Course Day 64
+# Sat 9 Apr, Week 34, Course Day 64
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1174,8 +1185,8 @@ Module 7: React
 
 * [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
-# Tue 13 Jul, Week 14, Course Day 65
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 11 Apr, Week 35, Course Day 65
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1191,7 +1202,7 @@ Module 7: React
 
 * [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
-# Wed 14 Jul, Week 14, Course Day 66
+# Sat 16 Apr, Week 35, Course Day 66
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1210,8 +1221,8 @@ Module 7: React
 
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
-# Thu 15 Jul, Week 14, Course Day 67
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 18 Apr, Week 36, Course Day 67
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Project Due
@@ -1232,7 +1243,7 @@ Module 7: React
 
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
-# Fri 16 Jul, Week 14, Course Day 68
+# Sat 23 Apr, Week 36, Course Day 68
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1249,8 +1260,8 @@ Module 7: React
 
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
-# Mon 19 Jul, Week 15, Course Day 69
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 25 Apr, Week 37, Course Day 69
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1266,9 +1277,7 @@ Module 7: React
 
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
-# Tue 20 Jul: SG Public Holiday (Hari Raya Haji)
-
-# Wed 21 Jul, Week 15, Course Day 70
+# Sat 30 Apr, Week 37, Course Day 70
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1288,8 +1297,8 @@ Module 7: React
 
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
-# Thu 22 Jul, Week 15, Course Day 71
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 2 May, Week 38, Course Day 71
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1305,7 +1314,7 @@ Module 7: React
 
 * [Project 4 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-2)
 
-# Fri 23 Jul, Week 15, Course Day 72
+# Sat 7 May, Week 38, Course Day 72
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1319,8 +1328,8 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Mon 26 Jul, Week 16, Course Day 73
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 9 May, Week 39, Course Day 73
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### In Class
@@ -1333,7 +1342,7 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Tue 27 Jul, Week 16, Course Day 74
+# Sat 14 May, Week 39, Course Day 74
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1347,8 +1356,8 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Wed 28 Jul, Week 16, Course Day 75
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 16 May, Week 40, Course Day 75
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### In Class
@@ -1361,7 +1370,7 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Thu 29 Jul, Week 16, Course Day 76
+# Sat 21 May, Week 40, Course Day 76
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1380,8 +1389,8 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Fri 30 Jul, Week 16, Course Day 77
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 23 May, Week 41, Course Day 77
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1397,7 +1406,7 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Mon 2 Aug, Week 17, Course Day 78
+# Sat 28 May, Week 41, Course Day 78
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1414,8 +1423,8 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Tue 3 Aug, Week 17, Course Day 79
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 30 May, Week 42, Course Day 79
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 7: React
 ### Pre Class
@@ -1431,7 +1440,7 @@ Module 7: React
 
 * [Project 4 Implementation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app)
 
-# Wed 4 Aug, Week 17, Course Day 80
+# Sat 4 Jun, Week 42, Course Day 80
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
@@ -1450,8 +1459,8 @@ Module 7: React
 
 * [Project 4 Video Demo](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#video-demo)
 
-# Thu 5 Aug, Week 17, Course Day 81
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 6 Jun, Week 43, Course Day 81
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Pre Class
@@ -1469,7 +1478,7 @@ Module 8: Advanced React
 
 * [Project 4 Video Demo](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#video-demo)
 
-# Fri 6 Aug, Week 17, Course Day 82
+# Sat 11 Jun, Week 43, Course Day 82
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1489,10 +1498,8 @@ Module 8: Advanced React
 ### Post Class
 * [8.POCE.1: Car Rental](https://bootcamp.rocketacademy.co/8-advanced-react/8.poce-post-class-exercises/8.poce.1-car-rental)
 
-# Mon 9 Aug: SG Public Holiday (National Day)
-
-# Tue 10 Aug, Week 18, Course Day 83
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 13 Jun, Week 44, Course Day 83
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Pre Class
@@ -1513,7 +1520,7 @@ Module 8: Advanced React
 ### Project Start
 * [Project 5: Group React App](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Wed 11 Aug, Week 18, Course Day 84
+# Sat 18 Jun, Week 44, Course Day 84
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1536,8 +1543,8 @@ Module 8: Advanced React
 
 * [Project 5 Ideation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
 
-# Thu 12 Aug, Week 18, Course Day 85
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 20 Jun, Week 45, Course Day 85
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Pre Class
@@ -1553,7 +1560,7 @@ Module 8: Advanced React
 
 * [Project 5 Ideation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
 
-# Fri 13 Aug, Week 18, Course Day 86
+# Sat 25 Jun, Week 45, Course Day 86
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1574,8 +1581,8 @@ Module 8: Advanced React
 
 * [Project 5 Ideation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
 
-# Mon 16 Aug, Week 19, Course Day 87
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 27 Jun, Week 46, Course Day 87
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Pre Class
@@ -1593,7 +1600,7 @@ Module 8: Advanced React
 
 * [Project 5 Ideation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
 
-# Tue 17 Aug, Week 19, Course Day 88
+# Sat 2 Jul, Week 46, Course Day 88
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1613,8 +1620,8 @@ Module 8: Advanced React
 
 * [Project 5 Ideation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-1)
 
-# Wed 18 Aug, Week 19, Course Day 89
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 4 Jul, Week 47, Course Day 89
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Pre Class
@@ -1630,7 +1637,7 @@ Module 8: Advanced React
 
 * [Project 5 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app#ideation-phase-2)
 
-# Thu 19 Aug, Week 19, Course Day 90
+# Sat 9 Jul, Week 47, Course Day 90
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1642,7 +1649,19 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Fri 20 Aug, Week 19, Course Day 91
+# Mon 11 Jul, Week 48, Course Day 91
+Meeting time: 7:30 PM SGT (GMT+8)
+
+Module 8: Advanced React
+### In Class
+* [DS&A Open Practice](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.12-open-practice)
+
+### Post Class
+* [DS&A Open Practice](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.12-open-practice)
+
+* [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
+
+# Sat 16 Jul, Week 48, Course Day 92
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1654,20 +1673,8 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Mon 23 Aug, Week 20, Course Day 92
-Meeting time: 10:00 AM SGT (GMT+8)
-
-Module 8: Advanced React
-### In Class
-* [DS&A Open Practice](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.12-open-practice)
-
-### Post Class
-* [DS&A Open Practice](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.12-open-practice)
-
-* [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
-
-# Tue 24 Aug, Week 20, Course Day 93
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 18 Jul, Week 49, Course Day 93
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### Project Due
@@ -1683,7 +1690,7 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Wed 25 Aug, Week 20, Course Day 94
+# Sat 23 Jul, Week 49, Course Day 94
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1695,8 +1702,8 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Thu 26 Aug, Week 20, Course Day 95
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 25 Jul, Week 50, Course Day 95
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### In Class
@@ -1707,7 +1714,7 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Fri 27 Aug, Week 20, Course Day 96
+# Sat 30 Jul, Week 50, Course Day 96
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1724,8 +1731,8 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Mon 30 Aug, Week 21, Course Day 97
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 1 Aug, Week 51, Course Day 97
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### In Class
@@ -1736,7 +1743,7 @@ Module 8: Advanced React
 
 * [Project 5 Implementation](https://bootcamp.rocketacademy.co/projects/project-5-group-react-app)
 
-# Tue 31 Aug, Week 21, Course Day 98
+# Sat 6 Aug, Week 51, Course Day 98
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 8: Advanced React
@@ -1758,8 +1765,8 @@ Module 8: Advanced React
 ### Project Start
 * [Project 6: Capstone](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Wed 1 Sep, Week 21, Course Day 99
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 8 Aug, Week 52, Course Day 99
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 8: Advanced React
 ### In Class
@@ -1772,7 +1779,7 @@ Module 8: Advanced React
 
 * [Project 6 Ideation](https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-1)
 
-# Thu 2 Sep, Week 21, Course Day 100
+# Sat 13 Aug, Week 52, Course Day 100
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1790,8 +1797,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-6-capstone#ideation-phase-2)
 
-# Fri 3 Sep, Week 21, Course Day 101
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 15 Aug, Week 53, Course Day 101
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### Pre Class
@@ -1807,7 +1814,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Mon 6 Sep, Week 22, Course Day 102
+# Sat 20 Aug, Week 53, Course Day 102
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1824,8 +1831,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Tue 7 Sep, Week 22, Course Day 103
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 22 Aug, Week 54, Course Day 103
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### Pre Class
@@ -1843,7 +1850,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Wed 8 Sep, Week 22, Course Day 104
+# Sat 27 Aug, Week 54, Course Day 104
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1858,8 +1865,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Thu 9 Sep, Week 22, Course Day 105
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 29 Aug, Week 55, Course Day 105
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### Pre Class
@@ -1875,7 +1882,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Fri 10 Sep, Week 22, Course Day 106
+# Sat 3 Sep, Week 55, Course Day 106
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1895,8 +1902,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Mon 13 Sep, Week 23, Course Day 107
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 5 Sep, Week 56, Course Day 107
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### Pre Class
@@ -1914,7 +1921,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Tue 14 Sep, Week 23, Course Day 108
+# Sat 10 Sep, Week 56, Course Day 108
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1935,8 +1942,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Wed 15 Sep, Week 23, Course Day 109
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 12 Sep, Week 57, Course Day 109
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### In Class
@@ -1949,7 +1956,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Thu 16 Sep, Week 23, Course Day 110
+# Sat 17 Sep, Week 57, Course Day 110
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -1969,8 +1976,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Fri 17 Sep, Week 23, Course Day 111
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 19 Sep, Week 58, Course Day 111
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### In Class
@@ -1983,7 +1990,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Mon 20 Sep, Week 24, Course Day 112
+# Sat 24 Sep, Week 58, Course Day 112
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -2003,8 +2010,8 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Tue 21 Sep, Week 24, Course Day 113
-Meeting time: 10:00 AM SGT (GMT+8)
+# Mon 26 Sep, Week 59, Course Day 113
+Meeting time: 7:30 PM SGT (GMT+8)
 
 Module 9: Advanced Topics
 ### Project Due
@@ -2020,7 +2027,7 @@ Module 9: Advanced Topics
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
 
-# Wed 22 Sep, Week 24, Course Day 114
+# Sat 1 Oct, Week 59, Course Day 114
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 9: Advanced Topics
@@ -2034,15 +2041,5 @@ Module 9: Advanced Topics
 * [DS&A Open Practice](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.12-open-practice)
 
 * [Project 6 Implementation](https://bootcamp.rocketacademy.co/projects/project-6-capstone)
-
-# Thu 23 Sep, Week 24, Course Day 115
-Meeting time: 10:00 AM SGT (GMT+8)
-
-Module 9: Advanced Topics
-### In Class
-* [Project 6 Presentations](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations)
-
-### Post Class
-* [Project 6 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
 
