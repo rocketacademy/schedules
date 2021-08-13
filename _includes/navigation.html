@@ -1,10 +1,13 @@
 {% assign navurl = page.url | remove: 'index.html' %}
 <ul>
-{% for page in site.pages %}
-  {% if page.section != 404 %}
   <li>
-    <a href="{{ page.url }}"{% if page.url == navurl %} data-current="current page"{% endif %}>{{ page.title }}</a>
+    <a href="/"{% if page.section == 'home' %} data-current="current page"{% endif %}>Home</a>
   </li>
-  {% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+    {% if page.section != 404 and page.section != 'home' %}
+    <li>
+      <a href="{{ page.url }}"{% if page.url == navurl %} data-current="current page"{% endif %}>{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
 </ul>
