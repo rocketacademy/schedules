@@ -3,7 +3,9 @@
 
 backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
-  branch: master # Branch to update (master by default)
+  repo: rocketacademy/schedules
+  branch: main # Branch to update (master by default)
+
 
 media_folder: "assets/img/uploads" # Folder where user uploaded files should go
 
